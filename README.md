@@ -6,4 +6,4 @@ Algorithms Used:
 2. sac (soft actor-critic)
 
 Global World Rank - 199
-Time difference with 1st world ranker - 00:45:00
+Time difference with 1st world ranker - 00:45:00 seconds
